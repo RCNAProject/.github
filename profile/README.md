@@ -1,7 +1,7 @@
 <p align="center">
   <img src="../RCNAProject.png" width="200">
 </p>
-# RunicCraft: New Ascension
+#RunicCraft: New Ascension
 
 **RunicCraft: New Ascension (RCNA)** is a Minecraft **1.12.2** project focused on deep progression, survival mechanics, technology, and magical systems.
 
@@ -18,6 +18,20 @@ RCNACore is the primary codebase for the project and contains:
 * Shared framework code used across the project
 
 This repository serves as the foundation for RCNA development.
+
+## RCNA Project – Mod Repositories
+
+These repositories contain mods that are either **developed specifically for** or **forked and modified for use in** the *RunicCraft: New Ascension* modpack.
+
+* **RCNACore**
+  TerraFirmaCraft fork and the primary RCNA framework containing core systems, gameplay logic, and shared functionality.
+  It also includes integration logic for certain mod APIs (such as **Thaumcraft**) to allow their features and world content to generate properly within TerraFirmaCraft worlds.
+
+* **RCNA GregTech Community Edition Unofficial**
+  Fork of GregTech CEu used for balance adjustments and integration within the RCNA modpack.
+
+* **More to come**
+
 
 ## Development
 
