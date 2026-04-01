@@ -43,3 +43,7 @@ The goal of the project is to build a stable and extensible foundation for long-
 ## Status
 
 RCNA is currently under active development.
+
+## Links
+
+- **[RCNA 1.12.2 Template](https://github.com/RCNAProject/RCNA-1.12.2-template)**
