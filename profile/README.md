@@ -2,7 +2,7 @@
   <img src="../RCNAProject.png" width="200">
 </p>
 ---
-##RunicCraft: New Ascension
+# RunicCraft: New Ascension
 
 **RunicCraft: New Ascension (RCNA)** is a Minecraft **1.12.2** project focused on deep progression, survival mechanics, technology, and magical systems.
 
